@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Max! 👋
 
 <!--
 **mynameismrtime/mynameismrtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+a better description is coming soon lol
+
+
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=mynameismrtime&count_private=true&show_icons=true&hide=stars&theme=buefy)
