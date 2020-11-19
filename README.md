@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 a better description is coming soon lol
 
 
-![Readme Stats](https://github-readme-stats.vercel.app/api?username=mynameismrtime&count_private=true&show_icons=true&hide=stars&theme=buefy)
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=mynameismax&count_private=true&show_icons=true&hide=stars&theme=buefy)
