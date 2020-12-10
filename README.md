@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*a better description is coming soon, I promise~
+*a better description is coming soon, I promise*
 
 
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=mynameismax&count_private=true&show_icons=true&hide=stars&theme=buefy)
