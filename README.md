@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h4 align="center">a description is coming soon</h4>
+<h4 align="center">a description is coming soon... i think</h4>
 
 <p align="center">
   <a href="https://github.com/mynameismax">
