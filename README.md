@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/mynameismax">
-    <img src="https://api.ghprofile.me/view?username=mynameismax&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+    <img src="https://komarev.com/ghpvc/?username=mynameismax&label=Profile%20Views&logo=github&style=for-the-badge" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/234464614996246529">
-    <img src="https://img.shields.io/badge/Discord-maxx%230003-%237289da?logo=discord&style=flat-square" alt="Discord: maxx#0003"/>
+    <img src="https://img.shields.io/badge/Discord-maxx%230003-%237289da?logo=discord&style=for-the-badge" alt="Discord: maxx#0003"/>
   </a>
   <a href="https://twitter.com/mynameismrtime">
-    <img src="https://img.shields.io/badge/Twitter-mynameismrtime-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: mynameismrtime"/>
+    <img src="https://img.shields.io/badge/Twitter-mynameismrtime-%231DA1F2?logo=twitter&style=for-the-badge" alt="Twitter: mynameismrtime"/>
   </a>
 </p>
 
-<h4 align="center">a description is coming soon... i think</h4>
+<h4 align="center"><s>a description is coming soon... i think</s> well, apparently not. a description has been "coming soon" for over a year and a half...</h4>
 
 <p align="center">
   <a href="https://github.com/mynameismax">
